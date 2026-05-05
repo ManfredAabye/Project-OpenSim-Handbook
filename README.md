@@ -1,8 +1,8 @@
-# Project-OpenSim-Handbook
+# Project-OpenSimulator-Handbook
 
 <img src="https://raw.githubusercontent.com/ManfredAabye/Project-OpenSim-Handbook/refs/heads/main/LOGOmasterTr.png" alt="Project Badge" width="250">
 
-Project OpenSim Handbook
+Project OpenSimulator Handbook
 
 I will start in my native language, German, which can later be translated into other languages.
 
